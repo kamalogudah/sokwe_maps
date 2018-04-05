@@ -1,5 +1,5 @@
 # Sokwe
-Short description and motivation.
+This shit is WIP, and I dont know what I am actually doing. But Hopefully I hope to have something will make it easy to load shapefiles and mess with GIS in Rails.
 
 ## Usage
 How to use my plugin.
